@@ -1,4 +1,4 @@
-# SpringBoot + SpringSecurity 密码模式Demo
+# SpringBoot + SpringSecurity + OAuth2 密码模式Demo
 + 授权服务器和资源服务器配置在一个项目中。
 + 解决了使用FastJson后获取token响应格式不正确的问题。`OAuth2AccessTokenMessageConverter`
 + 添加了自定义异常处理类，异常转换为自定义描述。`CustomWebResponseExceptionTranslator`
